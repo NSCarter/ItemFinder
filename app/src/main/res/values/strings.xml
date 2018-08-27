@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FindMyItem</string>
+    <string name="findButton">Find</string>
+    <string name="addButton">Add</string>
+    <string name="editButton">Edit</string>
+    <string name="helpButton">Help</string>
+    <string name="title">Find My Item</string>
+    <string name="item_name">Item Name:</string>
+    <string name="item_name_textbox">Item Name...</string>
+    <string name="image">Add an image (optional):</string>
+    <string name="gallery_button">Use image from gallery</string>
+    <string name="camera_button">Take picture with camera</string>
+    <string name="description_text_view">Enter a description (optional):</string>
+    <string name="description_text_box">Enter a description...</string>
+    <string name="submit_button">Submit</string>
+    <string name="chosen_image">Image Chosen</string>
+    <string name="title_activity_item_list">ItemList</string>
+</resources>
